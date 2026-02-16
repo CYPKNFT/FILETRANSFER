@@ -1,0 +1,4 @@
+=== Building Documentation Index ===
+
+  Building ChromaDB vector index...
+  (This uses the built-in all-MiniLM-L6-v2 embedding model)
